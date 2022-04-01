@@ -6,7 +6,7 @@
   <link href="https://vanha0101.github.io/atom.xml" rel="self"/>
   
   <link href="https://vanha0101.github.io/"/>
-  <updated>2022-04-01T07:14:47.192Z</updated>
+  <updated>2022-04-01T07:54:30.197Z</updated>
   <id>https://vanha0101.github.io/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="https://vanha0101.github.io/2022/04/01/Test/"/>
     <id>https://vanha0101.github.io/2022/04/01/Test/</id>
     <published>2022-04-01T06:45:19.000Z</published>
-    <updated>2022-04-01T07:14:47.192Z</updated>
+    <updated>2022-04-01T07:54:30.197Z</updated>
     
     
-    <summary type="html">&lt;p&gt;f&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;click test !&lt;/p&gt;</summary>
     
     
     
     <category term="test" scheme="https://vanha0101.github.io/categories/test/"/>
     
     
-    <category term="hello my blog" scheme="https://vanha0101.github.io/tags/hello-my-blog/"/>
+    <category term="test" scheme="https://vanha0101.github.io/tags/test/"/>
     
   </entry>
   
@@ -40,18 +40,20 @@
     <link href="https://vanha0101.github.io/2022/04/01/hello-world/"/>
     <id>https://vanha0101.github.io/2022/04/01/hello-world/</id>
     <published>2022-04-01T05:59:03.775Z</published>
-    <updated>2022-04-01T05:59:03.775Z</updated>
+    <updated>2022-04-01T07:54:26.774Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;Welcome to my blog !</summary>
         
       
     
     
+    
+    <category term="test" scheme="https://vanha0101.github.io/categories/test/"/>
     
     
   </entry>
