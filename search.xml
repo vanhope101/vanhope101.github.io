@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/04/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to my blog ! </p>
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Test</title>
     <url>/2022/04/01/Test/</url>
-    <content><![CDATA[<p>click test !</p>
+    <content><![CDATA[<blockquote>
+<p> click test !</p>
+</blockquote>
 <span id="more"></span>
 
 <p>My wife Lijuan is a beauty.</p>
@@ -23,5 +16,14 @@
       <tags>
         <tag>test</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/04/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to my blog ! </p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="https://vanha0101.github.io/atom.xml" rel="self"/>
   
   <link href="https://vanha0101.github.io/"/>
-  <updated>2022-04-01T07:57:16.534Z</updated>
+  <updated>2022-04-01T09:08:06.317Z</updated>
   <id>https://vanha0101.github.io/</id>
   
   <author>
@@ -21,10 +21,14 @@
     <link href="https://vanha0101.github.io/2022/04/01/Test/"/>
     <id>https://vanha0101.github.io/2022/04/01/Test/</id>
     <published>2022-04-01T06:45:19.000Z</published>
-    <updated>2022-04-01T07:57:16.534Z</updated>
+    <updated>2022-04-01T09:08:06.317Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p> click test !</p></blockquote><span id="more"></span><p>My wife Lijuan is a beauty.</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;click test !&lt;/p&gt;</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt; click test !&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
@@ -42,13 +46,13 @@
     <published>2022-04-01T05:59:03.775Z</published>
     <updated>2022-04-01T07:54:26.774Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome to my blog ! </p>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to my blog !</summary>
-        
+    <summary type="html">&lt;p&gt;Welcome to my blog ! &lt;/p&gt;
+</summary>
       
     
     
