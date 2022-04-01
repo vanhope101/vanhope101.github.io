@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>acwing 1118. 分成互质组（dfs搜索+剪枝）</title>
-    <url>/2022/04/01/Test/</url>
+    <url>/2022/04/01/acwing1118/</url>
     <content><![CDATA[<blockquote>
 <p>给定 n 个正整数，将它们分组，使得每组中任意两个数互质。</p>
 <p>至少要分成多少个组？</p>
