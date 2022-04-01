@@ -39,7 +39,7 @@
         <category>算法学习</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>dfs</tag>
       </tags>
   </entry>
   <entry>
@@ -48,7 +48,10 @@
     <content><![CDATA[<p>Welcome to my blog ! </p>
 ]]></content>
       <categories>
-        <category>test</category>
+        <category>Hello World</category>
       </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
   </entry>
 </search>
