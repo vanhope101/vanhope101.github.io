@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo NexT 主题启用 LaTeX</title>
-    <url>/2022/04/02/LatexTest/</url>
-    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
-<p>$$ \LaTeX$$</p>
-<p>参考</p>
-<blockquote>
-<p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
-      <tags>
-        <tag>latex</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玉渊潭游记</title>
     <url>/2022/04/02/%E6%B8%B8%E8%AE%B0/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，这个密码看着不太对，请再试试。" data-whm="抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。">
@@ -37,6 +20,23 @@
       </categories>
       <tags>
         <tag>玉渊潭</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo NexT 主题启用 LaTeX</title>
+    <url>/2022/04/02/LatexTest/</url>
+    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
+<p>$$ \LaTeX$$</p>
+<p>参考</p>
+<blockquote>
+<p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+      <tags>
+        <tag>latex</tag>
       </tags>
   </entry>
   <entry>
