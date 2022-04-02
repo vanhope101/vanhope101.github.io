@@ -4,6 +4,7 @@
     <title>Hexo NexT 主题启用 LaTeX</title>
     <url>/2022/04/02/LatexTest/</url>
     <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
+<p>$$ \LaTeX$$</p>
 <p>参考</p>
 <blockquote>
 <p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
