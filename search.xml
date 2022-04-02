@@ -34,4 +34,20 @@
         <tag>玉渊潭</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Hexo NexT 主题启用 LaTeX</title>
+    <url>/2022/04/02/LatexTest/</url>
+    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
+<p>参考</p>
+<blockquote>
+<p><a href="https://xlui.me/t/hexo-latex/#comments">https://xlui.me/t/hexo-latex/#comments</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+      <tags>
+        <tag>latex</tag>
+      </tags>
+  </entry>
 </search>
