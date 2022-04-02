@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/04/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to my blog ! </p>
+    <title>Hexo NexT 主题启用 LaTeX</title>
+    <url>/2022/04/02/LatexTest/</url>
+    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
+<p>参考</p>
+<blockquote>
+<p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
+</blockquote>
 ]]></content>
       <categories>
         <category>Hello World</category>
       </categories>
       <tags>
-        <tag>Hello World</tag>
+        <tag>latex</tag>
       </tags>
   </entry>
   <entry>
@@ -35,19 +39,15 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo NexT 主题启用 LaTeX</title>
-    <url>/2022/04/02/LatexTest/</url>
-    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
-<p>参考</p>
-<blockquote>
-<p><a href="https://xlui.me/t/hexo-latex/#comments">https://xlui.me/t/hexo-latex/#comments</a></p>
-</blockquote>
+    <title>Hello World</title>
+    <url>/2022/04/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to my blog ! </p>
 ]]></content>
       <categories>
         <category>Hello World</category>
       </categories>
       <tags>
-        <tag>latex</tag>
+        <tag>Hello World</tag>
       </tags>
   </entry>
 </search>
