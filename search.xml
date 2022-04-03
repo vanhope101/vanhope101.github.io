@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo NexT 主题启用 LaTeX</title>
-    <url>/2022/04/02/LatexTest/</url>
-    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
-<p>$$ \LaTeX$$</p>
-<p>参考</p>
-<blockquote>
-<p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
-      <tags>
-        <tag>latex</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/04/01/hello-world/</url>
     <content><![CDATA[<p>Welcome to my blog ! </p>
@@ -49,6 +32,23 @@
       </categories>
       <tags>
         <tag>玉渊潭</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo NexT 主题启用 LaTeX</title>
+    <url>/2022/04/02/LatexTest/</url>
+    <content><![CDATA[<p>$$sin^2\theta + cos^2\theta &#x3D; 1$$</p>
+<p>$$ \LaTeX$$</p>
+<p>参考</p>
+<blockquote>
+<p><a href="https://xlui.me/t/hexo-latex/">https://xlui.me/t/hexo-latex/</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+      <tags>
+        <tag>latex</tag>
       </tags>
   </entry>
   <entry>
@@ -144,6 +144,8 @@
 <li><p>做事要<strong>提前规划</strong>，才能从容不迫。</p>
 </li>
 <li><p>当前的每一秒都是你的生活，不要总想着熬过去某个时间就好了，不论痛苦还是放松都应该<strong>珍惜当下</strong>。</p>
+</li>
+<li><p>少看经验贴，我快把网上912的经验贴翻烂了，但是没什么用，每个人都有自己的节奏和背景，别人值得借鉴的并不多。包括我自己写的这篇，只是对对自己考研做的一个总结吧，大家一定要有自己的规划，万不可照搬任何人的经验。</p>
 </li>
 </ol>
 <p>摘抄一段看到很有感触的话</p>
