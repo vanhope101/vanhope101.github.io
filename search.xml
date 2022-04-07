@@ -18,18 +18,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/04/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to my blog ! </p>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
-      <tags>
-        <tag>Hello World</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>电影《狙击手》观后感</title>
     <url>/2022/04/04/movies_snipers/</url>
     <content><![CDATA[<p>上次看的抗美援朝的电影还是《长津湖》，相比与《长津湖》的宏大场面，《狙击手》这部电影场面很小，就是一场战役，开头先用五班伏击美军车辆体现了五班狙击手的水平，之后就是对一场战役的“长镜头”，几乎没有时间差，也正因此，更让人惊心动魄。</p>
@@ -45,6 +33,18 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/04/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to my blog ! </p>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+      <tags>
+        <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《我叫赵甲第》</title>
     <url>/2022/04/06/%E3%80%8A%E6%88%91%E5%8F%AB%E8%B5%B5%E7%94%B2%E7%AC%AC%E3%80%8B/</url>
     <content><![CDATA[<p>”人必有所执，方能有所成“</p>
@@ -56,6 +56,19 @@
       </categories>
       <tags>
         <tag>电视剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>清华研究生三年要怎么过</title>
+    <url>/2022/04/07/%E6%B8%85%E5%8D%8E%E7%A0%94%E7%A9%B6%E7%94%9F%E4%B8%89%E5%B9%B4%E8%A6%81%E6%80%8E%E4%B9%88%E8%BF%87/</url>
+    <content><![CDATA[<p>这个问题要多思考，三年时光转瞬即逝，你要多想想考研得艰辛，万不可虚度光阴。</p>
+]]></content>
+      <categories>
+        <category>思考</category>
+      </categories>
+      <tags>
+        <tag>读研</tag>
+        <tag>思考</tag>
       </tags>
   </entry>
   <entry>
